@@ -23,4 +23,6 @@ describe "#roll" do
     expect(rolls).not_to include(0, 7)
   end
 
+  it 
+
 end
