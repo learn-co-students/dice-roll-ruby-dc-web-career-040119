@@ -4,4 +4,7 @@
 
 def roll
   # code goes here
+  di = [1, 2, 3, 4, 5, 6]
+
+  number = di.sample
 end
